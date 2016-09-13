@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_fragments</string>
+    <string name="landscape_fragment_view">landscape_fragment</string>
+    <string name="portrait_fragment_view">portrait_fragment</string>
+</resources>
